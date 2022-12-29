@@ -1,4 +1,4 @@
-package com.example.hw2;
+package com.mp.hw2;
 
 import org.junit.Test;
 
